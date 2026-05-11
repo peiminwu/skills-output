@@ -311,10 +311,10 @@ description: |
 
 文章写完后，同时输出 Markdown 和 EPUB 两种格式：
 
-- **Markdown** → `markdown/{作者名}_{主题}.md`
-- **EPUB** → `epub/{作者名}_{主题}.epub`
+- **Markdown** → `markdown/{文章标题}.md`
+- **EPUB** → `epub/{文章标题}.epub`
 
-文件名示例：`Gladwell_为什么外卖骑手不闯红灯反而更危险.md` / `.epub`
+文章标题即 Markdown 中 `# 标题` 的内容。文件名示例：`离广岛三十分钟，有座漂在海上的岛.md` / `.epub`
 
 ### EPUB生成流程
 
