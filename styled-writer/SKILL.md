@@ -6,7 +6,6 @@ description: |
   触发格式：gladwell：主题、何伟：主题、marks：主题、廖信忠：主题、高华：主题，或直接用"作者名：主题"的格式。
   输入主题后自动完成研究+写作，字数控制在5000-10000字。同时输出Markdown和EPUB两种格式。
   与hv-analysis的分工：hv-analysis出HTML结构报告，styled-writer出特定风格的叙事文章。
-  与narrative-research的分工：narrative-research固定用Gladwell风格，styled-writer支持五种风格切换。
 ---
 
 # 多风格写作
